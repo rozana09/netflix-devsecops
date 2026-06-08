@@ -1,8 +1,27 @@
+<h2 align="center">Part 1 — DevSecOps CI/CD on AWS EC2</h2>
+
 <div align="center">
-  <img src="./public/assets/NetflixAWS.png" alt="DevSecOps Banner" width="100%" height="100%">
-  <img src="./public/assets/NetflixEKS.png" alt="DevSecOps Banner" width="100%" height="100%">
-  <br><br>
-  <img src="./public/assets/netflix-logo.png" alt="Netflix Logo" width="100" height="32">
+  <img src="./public/assets/NetflixAWS.png"
+       alt="DevSecOps CI/CD Architecture"
+       width="80%">
+</div>
+
+<br>
+
+<h2 align="center">Part 2 — Netflix on Amazon EKS (Kubernetes + GitOps)</h2>
+
+<div align="center">
+  <img src="./public/assets/NetflixEKS.png"
+       alt="Netflix EKS Architecture"
+       width="80%">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./public/assets/netflix-logo.png"
+       alt="Netflix Logo"
+       width="120">
 </div>
 
 <br/>
