@@ -7,7 +7,7 @@
 <h2 align="center">☸️ Part 2 — Netflix on Amazon EKS (Kubernetes + GitOps)</h2>
 
 <p align="center">
-  <img src="./public/assets/NetflixEKS.png" width="80%" height="450">
+  <img src="./public/assets/NetflixEKS.png" width="80%" height="600">
 </p>
 
 <br/>
