@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="./public/assets/DevSecOps.png" alt="DevSecOps Banner" width="100%" height="100%">
+  <img src="https://drive.google.com/file/d/1gSxB0N7-7wcvGZmMIZj3LYnSsi9Xd4Pu/view?usp=sharing" alt="DevSecOps Banner" width="100%" height="100%">
+  <img src="https://drive.google.com/file/d/1vPRxTqJPY3k_XTHu-sSS1MqxnRxNdL_0/view?usp=sharing" alt="DevSecOps Banner" width="100%" height="100%">
   <br><br>
   <img src="./public/assets/netflix-logo.png" alt="Netflix Logo" width="100" height="32">
 </div>
