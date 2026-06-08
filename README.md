@@ -901,7 +901,7 @@ netflix-devsecops/
 
 The complete step-by-step technical guide (57 pages) covering every phase in detail:
 
-📄 **[Netflix DevSecOps Engineering Project — Full Documentation](./docs/Netflix-DevSecOps-AWS-Kubernetes-Document.pdf)**
+📄 **[Netflix DevSecOps Engineering Project — Full Documentation](https://drive.google.com/file/d/1-WBif4lAHanFRO-bbOCBMCgs6NrdElKZ/view?usp=sharing)**
 
 ---
 
